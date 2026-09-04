@@ -16,7 +16,8 @@ Classify the ask into exactly one playbook. Then open that file.
 
 | Ask | Playbook |
 | --- | --- |
-| write / land / open the next skill or plugin file | playbooks/open-file.md |
+| write / open the next skill or plugin file | playbooks/open-file.md |
+| ship / commit / land / push | playbooks/ship.md |
 | bug / broken / fix | playbooks/fix.md |
 | how does X work / why / are we sure (read-only) | playbooks/investigate.md |
 | new idea while a file is already open | playbooks/park.md |
