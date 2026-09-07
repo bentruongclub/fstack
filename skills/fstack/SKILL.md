@@ -25,11 +25,12 @@ Classify the ask into exactly one playbook. Then open that file.
 
 ## Run
 
-1. Classify into exactly ONE playbook.
-2. Open that file. Copy its steps into the todo list verbatim before task-specific todos. A skipped step stays listed with `skip: reason`.
-3. Run. Do not invent a plan that drops named steps.
-4. Open `principles/prove-it.md`. Prove against a real artifact (file, command output, PR). Not vibes.
-5. New idea while a file is open → park playbook, then return.
+1. Open `principles/one-job.md`. Name the one job. Park the rest.
+2. Classify into exactly ONE playbook.
+3. Open that file. Copy its steps into the todo list verbatim before task-specific todos. A skipped step stays listed with `skip: reason`.
+4. Run. Do not invent a plan that drops named steps.
+5. Open `principles/prove-it.md`. Prove against a real artifact (file, command output, PR). Not vibes.
+6. New idea while a file is open → park playbook, then return.
 
 ## Voice
 
