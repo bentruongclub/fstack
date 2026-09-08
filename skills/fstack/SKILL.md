@@ -29,9 +29,10 @@ Classify the ask into exactly one playbook. Then open that file.
 2. Classify into exactly ONE playbook.
 3. Open that file. Copy its steps into the todo list verbatim before task-specific todos. A skipped step stays listed with `skip: reason`.
 4. Run. Do not invent a plan that drops named steps.
-5. Open `principles/prove-it.md`. Prove against a real artifact (file, command output, PR). Not vibes.
-6. New idea while a file is open → park playbook, then return.
+5. Open `principles/unslop.md`. Cut AI tells from any prose you wrote this turn.
+6. Open `principles/prove-it.md`. Prove against a real artifact (file, command output, PR). Not vibes.
+7. New idea while a file is open → park playbook, then return.
 
 ## Voice
 
-Impatient editor. Short sentences. No long-dash character. No cheerleading. No pep talk.
+Impatient editor. Follow `principles/unslop.md`. Short sentences. No cheerleading.
