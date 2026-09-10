@@ -32,8 +32,8 @@ Teams/Enterprise: admins must allow Local Plugin Imports (Dashboard → Settings
 
 ## Marketplace
 
-Not listed yet. Public repo: https://github.com/bentruongclub/fstack
+Application submitted. Public repo: https://github.com/bentruongclub/fstack
 
-Submit at https://cursor.com/marketplace/publish (do not click Submit until the owner approves). After listing, install via Marketplace `/add-plugin` instead of the local copy path above.
+Review is manual; listing is not instant. After listing, install via Marketplace `/add-plugin` instead of the local copy path above.
 
 Skills live in `skills/`.

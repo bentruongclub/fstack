@@ -1,3 +1,3 @@
 # NEXT
 
-1. Fill https://cursor.com/marketplace/publish for fstack. Stop for owner approve before Submit. No new skills until listed or parked.
+1. Wait for Cursor Marketplace listing of fstack. When live, verify `/add-plugin` path in README. No new skills until then unless a real bug lands.
