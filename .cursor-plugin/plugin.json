@@ -1,12 +1,22 @@
 {
-  "name": "fstack",
-  "displayName": "fstack",
-  "version": "0.1.0",
-  "description": "One job. Route it. Prove it. Fuji Landmark's agent workflow pack.",
-  "author": { "name": "Fuji Landmark" },
-  "license": "MIT",
-  "keywords": ["fstack", "workflow", "orchestrator"],
-  "category": "developer-tools",
-  "tags": ["workflow"],
-  "skills": "./skills/"
+	"name": "fstack",
+	"displayName": "fstack",
+	"version": "0.1.0",
+	"description": "One job. Route it. Prove it. Fuji Landmark's agent workflow pack.",
+	"author": {
+		"name": "Fuji Landmark"
+	},
+	"license": "MIT",
+	"keywords": [
+		"fstack",
+		"workflow",
+		"orchestrator"
+	],
+	"category": "developer-tools",
+	"tags": [
+		"workflow"
+	],
+	"skills": "./skills/",
+	"homepage": "https://github.com/bentruongclub/fstack",
+	"repository": "https://github.com/bentruongclub/fstack"
 }
