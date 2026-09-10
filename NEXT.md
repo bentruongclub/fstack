@@ -1,3 +1,3 @@
 # NEXT
 
-1. Marketplace publish slice. plugin.json + README Install already local-proven. Remote is https://github.com/bentruongclub/fstack (private). Do not add skills.
+1. Make https://github.com/bentruongclub/fstack public. Then fill https://cursor.com/marketplace/publish (stop for Fuji approve before Submit). No new skills until that lands or is parked.
