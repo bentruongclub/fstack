@@ -1,3 +1,3 @@
 # PARKED
 
-- plugin.json `repository` field (marketplace)
+_Nothing parked._
